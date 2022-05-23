@@ -1,5 +1,13 @@
-#Ignore resources folder
-Resources/
+#Ignore files
+Resources/credits.csv
+Resources/keywords.csv
+Resources/links.csv
+Resources/links_small.csv
+Resources/ratings.csv
+Resources/ratings_small.csv
+config.py
+Extraction.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
